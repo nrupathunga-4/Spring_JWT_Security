@@ -24,6 +24,4 @@ public class GlobalExceptionHandler {
 		errormap.put("statusCode", "400");
 		return errormap;
 	}
-	
-	
 }
